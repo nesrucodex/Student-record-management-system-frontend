@@ -14,11 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <img width="949" alt="Screenshot 2024-01-15 205155" src="https://github.com/nesrucodex/Student-record-management-system-frontend/assets/155378885/11cb39dd-0e34-4263-b8c0-b605153499d8">
 
+
 <img width="949" alt="Screenshot 2024-01-15 205213" src="https://github.com/nesrucodex/Student-record-management-system-frontend/assets/155378885/e25a45e6-04d6-495d-b22d-af4280409407">
+
 
 <img width="947" alt="Screenshot 2024-01-15 210123" src="https://github.com/nesrucodex/Student-record-management-system-frontend/assets/155378885/86afddea-fa62-49c4-8457-c3aa42c2664e">
 
-<img width="950" alt="Screenshot 2024-01-15 210146" src="https://github.com/nesrucodex/Student-record-management-system-frontend/assets/155378885/75aef7c1-145f-4ce5-990f-81199c476522">
 
 <img width="947" alt="Screenshot 2024-01-15 210209" src="https://github.com/nesrucodex/Student-record-management-system-frontend/assets/155378885/d39c3fcf-3d1b-42a7-99a4-2a247108b4c2">
 
